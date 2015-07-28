@@ -1311,7 +1311,7 @@
 
 	body {
 		/* tomato, seagreen, salmon, */
-		background-color: seagreen; 
+		background-color: salmon; 
 		/*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
